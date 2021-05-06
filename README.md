@@ -12,4 +12,4 @@ ___
 * Visual Interface
 * Snails can have accidents
 ___
-##### Based on: ![Link](https://wiki.freitagsrunde.org/Javakurs/Übungsaufgaben/Rennschnecke)
+##### Based on: [Link](https://wiki.freitagsrunde.org/Javakurs/Übungsaufgaben/Rennschnecke)
