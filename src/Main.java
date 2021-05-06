@@ -23,7 +23,7 @@ public class Main {
         Office office = new Office(race, 1.56);
         dynamicBets(office, players);
 
-        office.toString();
+        System.out.println(office);
 
         office.startRace();
         office.getWinner();
