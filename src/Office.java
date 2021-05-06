@@ -31,7 +31,8 @@ public class Office {
         String winner = race.getWinner().getName();
         for (Bet bet : bets) {
             if (bet.getSnailname().equals(winner)){
-                System.out.println(bet.getPlayername() + " won his bet! He went in with [" + bet.getAmount() + "]");
+                System.out.println(bet.getPlayername() + " won his bet! He went in with [" + bet.getAmount() + "]"
+                + " and won: " + bet.getAmount()*mult);
             }
         }
     }
